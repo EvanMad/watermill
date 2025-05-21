@@ -11,5 +11,6 @@ func IsChannelClosed(channel chan struct{}) bool {
 		return true
 	default:
 		return false
+
 	}
 }
