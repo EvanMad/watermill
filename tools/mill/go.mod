@@ -1,6 +1,6 @@
 module github.com/ThreeDotsLabs/watermill/tools/mill
 
-go 1.21.0
+go 1.23
 
 toolchain go1.23.0
 
